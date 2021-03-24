@@ -1,0 +1,16 @@
+{
+  "name": "snowpack3-style-load",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:muzea-demo/snowpack3-style-load.git",
+  "author": "muzea <mr.muzea@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "snowpack": "3.1.2"
+  },
+  "dependencies": {
+    "purecss": "^2.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
